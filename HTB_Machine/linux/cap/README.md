@@ -95,7 +95,7 @@ Saya sempat terjebak lama di sini, hingga akhirnya saya mencoba memasukkan ID de
 
 buka file 0.pcap pada wireshark dan kita akan mendapatkan user dan password tersebut
 
-![[Pasted image 20241229143157.png]]
+![["Pasted image 20241229143157.png"]]
 
 ![[Pasted image 20241229143305.png]]
 
